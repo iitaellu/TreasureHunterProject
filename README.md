@@ -6,7 +6,7 @@ As course project I created simple platform game from week 7 exercise. Main idea
 
 
 ## What was done
-What tools were used: 
+## What tools were used: 
 
 I used codeSandbox, Phaser, Freesound, Pixlr X and web as my tools. 
 
