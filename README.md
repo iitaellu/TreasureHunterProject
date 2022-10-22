@@ -23,7 +23,7 @@ I used some audios in this game too. There is background sound and audio effect 
 
 ## What tools were used: 
 
-I used codeSandbox, Phaser, Freesound, Pixlr X and internet as my tools. 
+I used CodeSandbox, Phaser, Freesound, Pixlr X and internet as my tools. 
 
 I used CodeSandbox as my developing environment and in the dependencies, I included phaser. With phaser’s feature I managed to build this simple game. Also, with Phaser’s websites I were able to find some tutorials how to make some features to my game and some images to use my game. From Freesound I found my game audios and with Pixlr X I edited some of my game images. 
 
