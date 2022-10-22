@@ -4,6 +4,8 @@ Created with CodeSandbox
 ## Introduction
 As course project I created simple platform game from week 7 exercise. Main idea of game is to collect all stars, survive all three levels and find treasure.  
 
+![image](https://user-images.githubusercontent.com/78799868/197366079-3b812e2f-64aa-49f7-890a-62ad92db98ec.png)
+
 
 ## What was done
 ### gaming and levels
@@ -31,9 +33,11 @@ Also, internet was very important tool with this project. From there I looked in
 
 ## Points Wishes
 
-![image](https://user-images.githubusercontent.com/78799868/197358958-833ba305-7c5f-4c4f-a0a7-0aaa079e855d.png)
+![image](https://user-images.githubusercontent.com/78799868/197366049-48b40954-248a-4925-905f-0bdfedb6b35a.png)
 
-1) Player dosen’t die after one hit, There is three lives in each level 
+1) Game is responsive, but it doesn’t look good 
 
-2) Mouse is included in game. Player needs to click map, to move platform in the level three. 
+2) Player dosen’t die after one hit, There is three lives in each level 
+
+3) Mouse is included in game. Player needs to click map, to move platform in the level three. 
 
