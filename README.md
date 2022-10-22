@@ -31,7 +31,7 @@ Also, internet was very important tool with this project. From there I looked in
 
 ## Points Wishes
 
-![image](https://user-images.githubusercontent.com/78799868/197358821-41d702bf-293d-4845-99bd-388783b9e046.png)
+![image](https://user-images.githubusercontent.com/78799868/197358924-87f2a00f-78e6-4fd7-8f84-258c0f629c44.png)
 
 1) Player dosen’t die after one hit, There is three lives in each level 
 
