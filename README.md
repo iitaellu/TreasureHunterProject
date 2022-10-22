@@ -1,5 +1,4 @@
 # TreasureHunterProject
-Created with CodeSandbox
 
 ## Introduction
 As course project I created simple platform game from week 7 exercise. Main idea of game is to collect all stars, survive all three levels and find treasure.  
