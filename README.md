@@ -6,7 +6,6 @@ As course project I created simple platform game from week 7 exercise. Main idea
 
 ![image](https://user-images.githubusercontent.com/78799868/197366079-3b812e2f-64aa-49f7-890a-62ad92db98ec.png)
 
-
 ## What was done
 ### gaming and levels
 Game includes three levels, which are one more difficult than the other. kode behind them are a bit similar, but each of them has their own thing which make them different. Level one tand two has hidden door and level three has the hidden treasure. From door, player go next level and from treasure palyer wins and game is over. To reveal the secret of the level, player have to collect enough points. Player got those point by collecting stars. There is two kind of them, and they give different amount of points. If player dies, the game ends and player has to click to return to start. Each level player has three lives.
@@ -33,7 +32,7 @@ Also, internet was very important tool with this project. From there I looked in
 
 ## Points Wishes
 
-![image](https://user-images.githubusercontent.com/78799868/197366049-48b40954-248a-4925-905f-0bdfedb6b35a.png)
+![image](https://user-images.githubusercontent.com/78799868/197366124-c229a0f5-3e41-4657-a042-563aaa063022.png)
 
 1) Game is responsive, but it doesn’t look good 
 
