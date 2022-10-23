@@ -30,7 +30,7 @@ I used CodeSandbox as my developing environment and in the dependencies I includ
 Also, internet was very important tool with this project. From there I looked in some examples and ideas how to implement my game’s features in practise. I have list all my sources top of my “index.js” -file. 
 
 ## Points Wishes
-![image](https://user-images.githubusercontent.com/78799868/197398947-336948c5-1991-4104-9da8-ca75c427ecdf.png)
+![image](https://user-images.githubusercontent.com/78799868/197398994-85cb002e-b014-4b4b-b7a0-10b02b8ad7d2.png)
 
 1) Game is responsive, but it doesn’t look good 
 
